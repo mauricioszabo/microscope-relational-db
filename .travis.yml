@@ -1,9 +1,7 @@
 language: clojure
 
-addons:
-  apt:
-    packages:
-      - oracle-java8-set-default
+jdk:
+  - oraclejdk8
 
 script:
   - lein midje
