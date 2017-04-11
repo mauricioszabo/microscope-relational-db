@@ -1,5 +1,9 @@
-sudo: required
 language: clojure
+
+addons:
+  apt:
+    packages:
+      - oracle-java8-set-default
 
 script:
   - lein midje
