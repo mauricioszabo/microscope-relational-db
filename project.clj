@@ -5,7 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [microscope "0.1.0"]
-                 [com.mchange/c3p0 "0.9.2.1"]
+                 [com.mchange/c3p0 "0.9.5.1"]
                  [org.clojure/java.jdbc "0.6.1"]
                  [org.hsqldb/hsqldb "2.3.4"]]
 
