@@ -1,4 +1,4 @@
-(defproject microscope/relational-db "0.1.1-SNAPSHOT"
+(defproject microscope/relational-db "0.1.1"
   :description "Microservice architecture for Clojure"
   :url "https://github.com/acessocard/microscope"
   :license {:name "Eclipse Public License"
